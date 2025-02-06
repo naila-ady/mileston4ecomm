@@ -1,7 +1,7 @@
 
 
 import React from 'react';
-import { client } from "../../../sanity-migration/sanityClient";
+import { client } from "../../../sanity-migration/dist/sanityClient";
 import Image from 'next/image';
 import { urlFor } from '@/sanity/lib/image';
 
